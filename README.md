@@ -30,6 +30,8 @@ docker run --name jenkins-blueocean --restart=on-failure --detach \
   myjenkins-blueocean:2.387
 ```
 
+**Verify the running container by opening the browser at <http://localhost:8080/>**
+
 ### Sign in
 
 ```
